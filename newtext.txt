@@ -1,0 +1,6 @@
+here is some text
+just typing randomly
+
+function myFunc() {
+	myFunc();
+}
