@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(108, 255, 105);
+}
+
+.myclass {
+    background-color: rgba(0, 255, 255, 0.832);
+}
+
+#mytext {
+    font-family: Verdana; Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 20px;
+}

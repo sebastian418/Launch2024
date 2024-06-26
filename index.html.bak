@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Chuma's socccer website</title>
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+    <div id="tswcontainer">
+      <div id="tswheader"> <br>
+        <p>&nbsp;</p>
+        <!-- end of header section: insert your logo, etc, above this line --> </div>
+      <div id="tswcontent">
+        <div id="tswcontproper">
+          <!-- start of content column: insert your content here -->
+          <h1>Home</h1>
+          My name is Chuma. I am 14 years old and I live in Worcester,
+          Massachusetts. This is my homepage. I love Cristiano Ronaldo. <br>
+          <p>&nbsp;<img src="ronaldo.jpg" alt="pic of ronaldo "></p>
+          <!-- end of content column: put your content above this line --> </div>
+      </div>
+      <div id="tswsidecol">
+        <div id="tswsideproper">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="hometown.html">Hometown</a></li>
+            <li><a href="hobbies.html">Hobbies</a></li>
+          </ul>
+          <p> </p>
+          <!-- end of side column: put your navigation menu, etc, above this line -->
+        </div>
+      </div>
+      <div style="clear: both;"></div>
+      <div id="tswfooter">
+        <!-- start of footer section: insert your copyright notice, etc, here -->
+        <p><br>
+        </p>
+        <!-- end of footer section: insert your copyright notice, etc, above this line -->
+      </div>
+    </div>
+  </body>
+</html>
