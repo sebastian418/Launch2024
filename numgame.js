@@ -29,8 +29,8 @@ function makeGuess() {
         report.innerHTML += `<br>${myGuess} is correct! :)`
         document.body.style.backgroundColor = "lightgreen"
         myConfetti({
-            particleCount: 100,
-            spread: 160
+            particleCount: 150,
+            spread: 180
         })
     } else if (myGuess < secret) {
         report.innerHTML += `<br>${myGuess} is too small`;
